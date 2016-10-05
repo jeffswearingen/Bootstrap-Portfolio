@@ -1,0 +1,33 @@
+.jumbotron {
+	margin: 20px auto;
+	padding: 50px;
+	box-sizing: border-box;
+	width: 80%;
+}
+
+.jumbotron h1 {
+	margin-left: 2.5%;
+}
+
+.jumbotron p {
+	float: right;
+	font-size: 1.3em;
+}
+
+
+.jeffimage {
+	width: 30%;
+	display: inline-block;
+	float: left;
+}
+
+.container-jumbotron-text {
+	width: 40%;
+	display: inline-block;
+	float: right;
+
+}
+
+.jumbotron ul {
+	clear: both;
+}
