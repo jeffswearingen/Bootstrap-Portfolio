@@ -43,3 +43,24 @@
 .message-input {
 	height: 20em;
 }
+
+.portfolio-a,
+.portfolio-b,
+.portfolio-c,
+.portfolio-d,
+.portfolio-e,
+.portfolio-f {
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.portfolio-inset {
+	text-align: center;
+	position: relative;
+	background-color: cyan;
+	width: 200px;
+	bottom: 80px;
+	color: black;
+	padding: 10px;
+	font-size: 1em;
+}
