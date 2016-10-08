@@ -1,8 +1,10 @@
 .jumbotron {
 	margin: 20px auto;
+	margin-left: 40px;
 	padding: 50px;
 	box-sizing: border-box;
-	width: 80%;
+	width: 60%;
+	float: left;
 }
 
 .jumbotron h1 {
@@ -63,4 +65,18 @@
 	color: black;
 	padding: 10px;
 	font-size: 1em;
+}
+
+.btn-container-contact-links {
+	float: right;
+	width: 30%;
+	margin-right: 40px;
+	margin-top: 20px;
+	background-color: #eee;
+}
+
+.contact-link-button img{
+	width: 70px;
+	margin-right: 10px;
+	margin-bottom: 20px;
 }
