@@ -5,6 +5,7 @@
 	box-sizing: border-box;
 	width: 60%;
 	float: left;
+	margin-right: 0;
 }
 
 .jumbotron h1 {
@@ -18,7 +19,7 @@
 
 
 .jeffimage {
-	width: 30%;
+	width: 35%;
 	display: inline-block;
 	float: left;
 }
@@ -52,8 +53,7 @@
 .portfolio-d,
 .portfolio-e,
 .portfolio-f {
-	margin-left: 30%;
-	margin-right: 30%;
+	margin-left: 5%;
 }
 
 .portfolio-inset {
@@ -69,14 +69,17 @@
 
 .btn-container-contact-links {
 	float: right;
-	width: 30%;
-	margin-right: 40px;
+	width: 25%;
+	margin-right: 5%;
 	margin-top: 20px;
 	background-color: #eee;
+	margin-left: 0%;
 }
 
 .contact-link-button img{
-	width: 70px;
+	width: 55px;
 	margin-right: 10px;
 	margin-bottom: 20px;
 }
+
+
