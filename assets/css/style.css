@@ -98,3 +98,8 @@
 .input-group {
 	margin-bottom: 10px;
 }
+
+.navbar-brand {
+	padding: 15px 15px 15px 50px;
+}
+
